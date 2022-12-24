@@ -37,4 +37,7 @@ public class Vehicle {
         return  currentDirection;
     }
 
+    public String getName() {
+        return name;
+    }
 }
